@@ -1,0 +1,32 @@
+
+body {
+  background-color: #DDDDDD;
+  padding: 3%;
+}
+
+hr {
+  width: 5%;
+  border-style: none none dotted;
+  border-color: #F5A962;
+  border-width: 5px;
+}
+
+h1 {
+  color: #125D98;
+}
+
+h2 {
+    color: #125D98;
+}
+
+h3 {
+  color: #125D98;
+}
+
+h4 {
+  color: #125D98;
+}
+
+p {
+  color: #3C8DAD;
+}
