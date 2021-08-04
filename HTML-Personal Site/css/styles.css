@@ -30,3 +30,26 @@ h4 {
 p {
   color: #3C8DAD;
 }
+
+/*********** CLASS SELECTORS ***********/
+
+.profile {
+  background-color: black;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.square:hover {
+  border-radius: 10%;
+}
+
+
+
+/********** ID SELECTORS **********/
+
+#heading {
+  font-size: 50px;
+  color: blue;
+}
